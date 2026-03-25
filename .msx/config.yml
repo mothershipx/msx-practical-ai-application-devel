@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Practical AI Application Development & Refinement
+slug: practical-ai-application-devel
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: practical-ai-application-devel.msx.dev
