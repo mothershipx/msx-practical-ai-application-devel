@@ -1,0 +1,51 @@
+{
+  "id": "41895b18-2ddf-49ad-af39-bc84a3ead4aa",
+  "name": "Practical AI Application Development & Refinement",
+  "slug": "practical-ai-application-devel",
+  "category": "ai",
+  "score": 90,
+  "description": "Businesses need expertise in developing practical AI applications, integrating AI capabilities, and refining the user experience of AI-generated content or interfaces to ensure they are intuitive, visually consistent, and performant.",
+  "pain_points": [
+    "Developing practical AI applications",
+    "Seamless AI capability integration",
+    "Intuitive and consistent AI user experience",
+    "Optimizing AI application performance",
+    "Applying human-centered AI design"
+  ],
+  "market_size": "$75B",
+  "tech_stack": [
+    "Figma / Adobe XD (for UX/UI prototyping)",
+    "Miro / Mural (for collaborative brainstorming)",
+    "OpenAI API / Hugging Face Transformers (for AI model integration/testing)",
+    "Google Cloud Platform / AWS (for testing deployment & performance metrics)",
+    "Custom AI Prototyping Kits (hardware for specific use cases)"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "icon": "📱",
+      "value": "587",
+      "change": 74,
+      "metric": "Views",
+      "source": "tiktok"
+    },
+    {
+      "icon": "📈",
+      "value": "77/100",
+      "change": 40,
+      "metric": "Search Interest",
+      "source": "google_trends"
+    },
+    {
+      "icon": "💬",
+      "value": "3+",
+      "change": 59,
+      "metric": "Mentions",
+      "source": "reddit"
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-practical-ai-application-devel/",
+  "repo_url": "https://github.com/mothershipx/msx-practical-ai-application-devel",
+  "created_at": "2026-03-25T20:26:32.144Z",
+  "pipeline_version": "1.0.0"
+}
