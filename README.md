@@ -28,9 +28,15 @@
 
 This product addresses the core pain points above with a simple, focused solution that can generate revenue from day 1. The opportunity score of 90/100 indicates strong market demand with manageable competition.
 
+## MVP Features
+
+- **Master Practical AI UX** — Learn and apply cutting-edge human-centered design principles directly to your AI projects in a hands-on, immersive environment.
+- **Accelerate Your AI Project** — Leverage expert mentorship and a structured sprint methodology to rapidly prototype and validate your AI application's user experience.
+- **Connect & Collaborate** — Network with a curated community of AI developers, designers, and product leaders, fostering invaluable peer feedback and collaboration.
+
 ## Tech Stack
 
-`Figma / Adobe XD (for UX/UI prototyping)` · `Miro / Mural (for collaborative brainstorming)` · `OpenAI API` · `Vercel` · `Custom AI Prototyping Kits (hardware for specific use cases)`
+`Event Management Platform (e.g., Luma, Eventbrite)` · `Community Engagement Platform (e.g., Discord, Circle)` · `Collaborative Design Tools (e.g., Figma, Miro)` · `Payment Processing (e.g., Stripe)`
 
 ## Revenue Model
 
