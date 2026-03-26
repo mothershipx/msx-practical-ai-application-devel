@@ -4,7 +4,7 @@
 
 > Businesses need expertise in developing practical AI applications, integrating AI capabilities, and refining the user experience of AI-generated content or interfaces to ensure they are intuitive, visually consistent, and performant.
 
-### [Live Preview](https://mothershipx.github.io/msx-practical-ai-application-devel/)
+### 🔗 [Live Preview →](https://mothershipx.github.io/msx-practical-ai-application-devel/)
 
 **Category:** ai · **Score:** 90/100 · **Status:** Pre-MVP
 
@@ -30,13 +30,13 @@ This product addresses the core pain points above with a simple, focused solutio
 
 ## MVP Features
 
-- **Master Practical AI UX** — Learn and apply cutting-edge human-centered design principles directly to your AI projects in a hands-on, immersive environment.
-- **Accelerate Your AI Project** — Leverage expert mentorship and a structured sprint methodology to rapidly prototype and validate your AI application's user experience.
-- **Connect & Collaborate** — Network with a curated community of AI developers, designers, and product leaders, fostering invaluable peer feedback and collaboration.
+- **Hands-On Design Sprints** — Immersive, project-based workshops to rapidly ideate and prototype human-centered AI applications.
+- **Expert-Led Mentorship** — Gain direct insights and personalized feedback from leading AI UX designers and ethicists.
+- **Collaborative Lab Environment** — Utilize our specialized physical studio for rapid prototyping, user testing, and peer learning.
 
 ## Tech Stack
 
-`Event Management Platform (e.g., Luma, Eventbrite)` · `Community Engagement Platform (e.g., Discord, Circle)` · `Collaborative Design Tools (e.g., Figma, Miro)` · `Payment Processing (e.g., Stripe)`
+`Event Management Platform (e.g., Luma or Skool for bookings and community)` · `Collaborative Design Tools (e.g., Figma, Miro for rapid prototyping and whiteboarding)` · `AI Prototyping Software (e.g., Voiceflow for conversational AI, Lobe for ML model integration mockups)` · `Physical Lab Equipment (touch screens, VR/AR headsets for testing, biometric sensors for UX research)` · `Project Management & Communication Tools (e.g., Asana, Slack for pre/post-sprint coordination)`
 
 ## Revenue Model
 
